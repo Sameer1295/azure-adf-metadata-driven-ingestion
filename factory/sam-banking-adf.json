@@ -1,0 +1,15 @@
+{
+	"name": "sam-banking-adf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b9a310fa-36d3-4914-afd8-3d8e62377f4f",
+		"tenantId": "9e04bc0e-13c9-4caf-a2de-fba9a8991568"
+	}
+}
